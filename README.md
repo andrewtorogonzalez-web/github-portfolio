@@ -13,7 +13,8 @@ Look at the work that I have done so far!
 ## Table of Contents
 
 # CSCI 102
-- CSCI 102 is an introductory programming class that teaches the fundamentals of programming through the C/C++ coding languages.
+
+CSCI 102 is an introductory programming class that teaches the fundamentals of programming through the C/C++ coding languages.
   
 - [CSCI 102 - Portfolio 1: Personality Quiz](portfolio-1---decision-tree.zip)
 - [CSCI 102 - Portfolio 2: Online Candy Store](portfolio-2---arrays--strings--nested-loops.zip)
