@@ -2,7 +2,7 @@
 
  Hi there!
 
- My name is Andrew Toro Gonzalez, a student at USC studying computer engineering and computer science. 
+ My name is Andrew Toro Gonzalez, a first generation student at USC studying computer engineering and computer science. 
 
 I plan to become a software engineer in the future and use my education and skills in computer science to help reduce the digital divide in low-income communities.
 
