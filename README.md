@@ -9,3 +9,8 @@ I plan to become a software engineer in the future and use my education and skil
 I have proficiency in JavaScript, HTML/CSS, C/C++, and I am currently learning Python and Object-Oriented Programming (OOP).
 
 Look at the work that I have done so far!
+
+## Table of Contents
+- [CSCI 102 - Portfolio 1: Personality Quiz](portfolio-1---decision-tree.zip)
+- [CSCI 102 - Portfolio 2: Online Candy Store](portfolio-2---arrays--strings--nested-loops.zip)
+  
