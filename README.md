@@ -18,4 +18,11 @@ CSCI 102 is an introductory programming class that teaches the fundamentals of p
   
 - [CSCI 102 - Portfolio 1: Personality Quiz](portfolio-1---decision-tree.zip)
 - [CSCI 102 - Portfolio 2: Online Candy Store](portfolio-2---arrays--strings--nested-loops.zip)
-  
+
+## Google Code Next Program 
+
+Google Code Next is an internship program that teaches computer science subjects such as JavaScript, Python, and web development concepts through HTML and CSS.
+
+- [Google Code Next Profile](http://codenext.withgoogle.com/student/24f1af7f58ebc)
+- [JavaScript Ping Pong Game](https://editor.p5js.org/Andrew_T./sketches/L4MuzmNIX)
+- [Python - Song Sample](https://earsketch.gatech.edu/earsketch2/?sharing=BwZCBFggZqAIEZjvgwRcvw)
